@@ -4,7 +4,7 @@
 /*
 1. Make a function
 2. Make a conditional that checks to see if number is even or odd - an even number is divisible by two with a remainder of  0
-3. Return
+3. Return results labeled 'Even or Odd'
 */
 
 

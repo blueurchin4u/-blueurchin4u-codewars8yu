@@ -2,8 +2,8 @@
 
 Instructions: We need a function that can transform a number into a string.  What ways of achieving this do you know?
 
-1. Create a function
-2. Use string method .toString() with parameter
+1. Create a function.
+2. Use string method .toString() with parameter to convert number to string.
 */
 
 function numberToString(num) {

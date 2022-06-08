@@ -1,0 +1,1 @@
+Complete solutions to codewars 8kyu

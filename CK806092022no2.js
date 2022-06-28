@@ -15,14 +15,14 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 function repeatStr (n, s) {
     let newString = ''
     for (i = 0; i < n; i ++) {
-      newString == s
+      newString === s
     }
     return newString
   }
 
 /*
 1. Create a function with 2 parameters, 1 for the # of times, one for the string
-2. Use String method of repeat, with s pre-method
+2. Use String method of repeat, with s pre-method.
 */
 
   function repeatStr (n, s) {
